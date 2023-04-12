@@ -1,0 +1,51 @@
+.body_backgorund {
+    background-image: url("7053.jpg");
+    background-position: center;
+    background-size: cover;
+  }
+  body {
+    text-align: center;
+    margin: 0;
+  }
+  .menu {
+    list-style: none;
+    font-family: 'Lobster', cursive;
+    position: absolute;
+    right: 20px;
+    font-size: 10px;
+    margin-top: 0px;
+
+}
+  .links{
+    float: left;
+    color: black;
+    padding-left: 9px;
+    padding-right: 9px;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    font-family: sans-serif;
+    font-size: 22px;
+  }
+  .links:hover{
+    background-color: gray;
+    font-size: 20px;
+font-style: italic;
+  }
+  
+  #home{
+    color: white;
+  }
+  
+ h3{
+    color: white;
+    font-family: cursive;
+    font-style: italic;
+    font-family: 'Lobster', cursive;
+
+  }
+
+ h1
+  {
+    color: white;
+    font-style: italic;
+  }
